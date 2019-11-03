@@ -1,5 +1,5 @@
 # GoCalc
-Simple calculator written in Golang.
+Simple calculator written in Go.
 
 
 
