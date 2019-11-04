@@ -83,6 +83,6 @@ func div(m float64, n float64){
 	fmt.Printf("%.2f / %.2f = %.2f", m, n, m/n)
 }
 ```
-
+a
 
 * `fmt.Scanf()` does not consume newlines, and on Windows it's 2 characters `(\r\n)`, so a subsequent `fmt.Scanf()` will proceed immediately. 
